@@ -2,6 +2,7 @@ This is a simple demonstration application used in the [Jenkins: The Definitive 
 
 ## Building the project
 # last change
+# for deploy
 # next change
 # change
 # new change
