@@ -1,18 +1,6 @@
 This is a simple demonstration application used in the [Jenkins: The Definitive Guide](http://wakaleo.com/books/jenkins-the-definitive-guide) book.
 
 ## Building the project
-# last change
-# last change was not successful
-# for deploy
-# next change
-# change
-# new change
-# change for slave
-# my change
-# change
-# second change
-# third change
-# change 5th
 # corrected change
 # slave
 # corrected
